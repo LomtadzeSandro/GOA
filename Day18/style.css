@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+img {
+
+  width: 500;
+  height: 600;
+}
+body{
+  background-color: chartreuse;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
