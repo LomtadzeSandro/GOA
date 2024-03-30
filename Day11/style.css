@@ -1,0 +1,47 @@
+.second{
+  color: brown;
+}
+
+.first{
+  color: aquamarine;
+}
+
+button{
+  color: red;
+}
+
+.third{
+  color: bisque;
+  text-align: end;
+}
+
+.fourth{
+  color: cadetblue;
+  text-align: center;
+}
+
+#color{
+  background-color: chartreuse;
+}
+
+#color1{
+  color: blueviolet;
+}
+
+#color2{
+  color: chocolate;
+}
+
+#color3{
+  background-color:coral;
+}
+
+button{
+  height: 100px;
+  width: 200px;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+}
